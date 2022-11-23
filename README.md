@@ -12,5 +12,5 @@
 
 **Redis Clients (jedis)** : In-memory data store to reduce database operation on redundant operations
 
-#Architecture
+# Architecture
  

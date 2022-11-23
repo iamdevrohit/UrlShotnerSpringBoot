@@ -13,4 +13,6 @@
 **Redis Clients (jedis)** : In-memory data store to reduce database operation on redundant operations
 
 # Architecture
+
+![springboot_auth_data_access](https://user-images.githubusercontent.com/43368942/203464025-cc7ed672-8771-43fa-a283-711c22acc024.png)
  
